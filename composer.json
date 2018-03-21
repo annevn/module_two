@@ -1,0 +1,8 @@
+{
+  "name": "test/module_two",
+  "description": "Custom module description here",
+  "type": "drupal-custom-module",
+  "version": "2.0.0",
+  "minimum-stability": "dev",
+  "require": { }
+}
